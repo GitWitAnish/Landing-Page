@@ -1,1 +1,1 @@
-Landing Page made using plane html amd css
+Landing Page made using plain html amd css.
